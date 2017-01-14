@@ -1,1 +1,0 @@
-<a href="http://www.facebook.com/ajax/share_dialog.php?s=100&amp;p[title]=I%20have%20donated%20to%20world%20diabetes%20day!&amp;p[url]=http%3A%2F%2Fapps.facebook.com%2Fprobaaplikacijejedan&amp;p[images][0]=http%3A%2F%2Fwww.swat.rs%2Ffacebook%2Fimages%2Fwwd1.jpg&amp;p[medium]=50" rel="dialog" title="Send this to friends or post it on your profile.">Share</a>
