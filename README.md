@@ -1,2 +1,2 @@
-# Basic-Facebook-share-app
-Basic Facebook share app (2012 year)
+# Facebook-share-app
+Facebook share app for Novo Nordisk World Diabetes Day 2012
