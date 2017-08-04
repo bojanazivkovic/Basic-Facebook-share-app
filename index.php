@@ -33,27 +33,6 @@
   <script type="text/javascript" src="_/js/jquery-1.8.2.js"></script>
   <script type="text/javascript" src="_/js/myscript.js"></script>
   <script src='http://connect.facebook.net/en_US/all.js'></script>
-  <style type="text/css">
-<!--
-.style1 {color: #1d3b79}
-a:link {
-	color: #1d3b79;
-	text-decoration: none;
-}
-a:visited {
-	color: #1d3b79;
-	text-decoration: none;
-}
-a:hover {
-	color: #1d3b79;
-	text-decoration: underline;
-}
-a:active {
-	color: #1d3b79;
-	text-decoration: none;
-}
--->
-  </style>
   
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
